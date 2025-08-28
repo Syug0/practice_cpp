@@ -1,14 +1,15 @@
-# practice_cpp
+# C++ Practice Projects
+
 I'll study C++ from scratch again and build an application.
 ---
 
 # 1. Learn How To Learn
 
-## 1.1. Rapidly changing technology
-## 1.2. Problem Solving Skills
-## 1.3. Adaptability
-## 1.4. Independent Learning
-## 1.5. Efficient Learning
+### 1.1. Rapidly changing technology
+### 1.2. Problem Solving Skills
+### 1.3. Adaptability
+### 1.4. Independent Learning
+### 1.5. Efficient Learning
 - Use diagram
 - Plan simple coding project
 
