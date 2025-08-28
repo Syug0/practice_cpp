@@ -1,5 +1,5 @@
 # C++ Practice Projects
-<sub><sub>I'll study C++ from scratch again and build an application.</sub></sub>
+<sub>I'll study C++ from scratch again and build an application.</sub>
 ---
 
 # 1. Learn How To Learn
